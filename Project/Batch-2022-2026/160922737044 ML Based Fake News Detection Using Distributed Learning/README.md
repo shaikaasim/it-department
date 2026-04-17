@@ -6,10 +6,10 @@ This project focuses on detecting fake news using Big Data technologies, Machine
 Modern online platforms generate massive volumes of textual data every second. Detecting fake news manually is difficult due to the volume, velocity, and variety of data. This system applies machine learning and deep learning models in a distributed environment to classify news articles as real or fake efficiently.
 
 # TEAM MEMBERS
-|Name|	Roll Number|
-|Shaik Aasim |160922737044|
+|Name                 |	Roll Number|
+|Shaik Aasim          |160922737044|
 |Mohammed Abdul Moyeed|160922737014|
-|Shaik Addeeb Ahmed|160922737015|
+|Shaik Addeeb Ahmed   |160922737015|
 #Objectives
 To detect fake news using data-driven models
 To classify news articles as real or fake
